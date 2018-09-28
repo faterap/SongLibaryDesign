@@ -1,5 +1,4 @@
 /*
- * Copyright (C) 2018, TP-LINK TECHNOLOGIES CO., LTD.
  *
  * com.faterap.songs
  *
